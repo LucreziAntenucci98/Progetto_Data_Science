@@ -1,0 +1,15 @@
+DATASET/API PROGETTI DATA SCIENCE - GRUPPO ANTENUCCI DEPLANO MELE TRAINI
+
+- Classificazione/Regressione/Clustering: https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify
+
+- Serie temporali:
+https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
+
+- Social network analysis:
+https://www.kaggle.com/datasets/boneacrabonjac/bitcoin-alpha
+
+- Chatbot:
+https://imdb-api.com/
+
+- Bert:
+https://www.kaggle.com/c/fake-news/data?select=train.csv
